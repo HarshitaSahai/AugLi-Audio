@@ -1,7 +1,7 @@
 
 Requirements:
 
-1. Install jode.js
+1. Install node.js
 2. Install npm
 
 To run server:
