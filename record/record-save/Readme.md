@@ -6,7 +6,7 @@ Requirements:
 
 To run server:
 
-1. Go to file location (folder where server.js present eg. ..\AugLi-audio\record\record-save)
+1. Go to file location (folder where server.js present eg. ..\AugLi-audio\record\record-save) and add node server.js
 2. server.js
    2.1 Cannot find uuid module: " npm install uuid ".
    2.2 Give permission.
